@@ -4,7 +4,7 @@ self.__BUILD_MANIFEST = {
     "beforeFiles": [
       {
         "source": "/macSell2//_next/:path+",
-        "destination": "/_next/:path+"
+        "destination": "/macSell2/_next/:path+"
       }
     ],
     "fallback": []
